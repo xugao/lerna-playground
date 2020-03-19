@@ -1,0 +1,19 @@
+{
+  "name": "test1",
+  "entries": [
+    {
+      "date": "Thu, 19 Mar 2020 20:03:39 GMT",
+      "tag": "test1_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "patch": [
+          {
+            "comment": "make a change",
+            "author": "xgao@microsoft.com",
+            "commit": "d39a4995afa91c61b7a5abb40f68f5998a8fd07d"
+          }
+        ]
+      }
+    }
+  ]
+}

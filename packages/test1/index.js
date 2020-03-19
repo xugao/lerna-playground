@@ -7,3 +7,7 @@ export function addOne(val) {
 export function addThree(val) {
   return addTwo(addOne(val));
 }
+
+export function addFour(val) {
+  return addThree(addOne(val));
+}
