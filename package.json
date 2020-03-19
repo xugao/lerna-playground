@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "bump": "beachball bump --scope \"!packages/fluentui/*\""
+  },
   "devDependencies": {
     "lerna": "^3.20.2",
     "beachball": "^1.20.2"
