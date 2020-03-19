@@ -1,9 +1,0 @@
-{
-  "type": "minor",
-  "comment": "make a change to test2",
-  "packageName": "test2",
-  "email": "xgao@microsoft.com",
-  "commit": "b82b215beb177a99dc9e1d61d7073970bec18641",
-  "dependentChangeType": "patch",
-  "date": "2020-03-19T20:13:15.408Z"
-}
