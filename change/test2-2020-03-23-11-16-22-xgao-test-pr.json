@@ -1,0 +1,8 @@
+{
+  "type": "patch",
+  "comment": "make a change in test2",
+  "packageName": "test2",
+  "email": "xgao@microsoft.com",
+  "dependentChangeType": "patch",
+  "date": "2020-03-23T18:16:22.704Z"
+}
