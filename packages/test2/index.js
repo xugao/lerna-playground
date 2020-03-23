@@ -5,3 +5,7 @@ export function addTwo(val) {
 export function addTen(val) {
   return val + 10;
 }
+
+export function addFour(val) {
+  return addTwo(addTwo(val));
+}
